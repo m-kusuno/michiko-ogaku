@@ -2,20 +2,20 @@
 I am an Associate Professor of Insurance at Nagasaki University. My research focuses on Mechanism/Information Design and Insurance.
 
 
-# Associate Professor
+### Associate Professor
 
      Faculty of Economics, Nagasaki University, Japan
 
-# Education
+### Education
 
      Ph.D. University of Tsukuba (Japan), 2014                
 
-# Research interest
+### Research interest
 
      Contract Theory, Economics of Information, Economics of Risk and Uncertainty
 
 
-# Working Papers:
+### Working Papers:
 
      1. The Role of Information Design in Facilitating Trust and Trustworthiness pdf
 
@@ -26,12 +26,12 @@ I am an Associate Professor of Insurance at Nagasaki University. My research foc
        joint with Yukihiko Funaki, Edward Halim and Yohanes Eko Riyanto, submitted
 
        
-# Work in Progress:
+### Work in Progress:
 
      1.  Mutual insurance for uninsurable income
 
 
-# Publications:
+### Publications:
 
      1. Monopoly, Heterogeneous Beliefs and Imperfect Information: The Insurance Market
 
