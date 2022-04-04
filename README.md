@@ -13,21 +13,23 @@ Contract Theory, Economics of Information, Economics of Risk and Uncertainty
 
 
 ### Working Papers:
-1. The Role of Information Design in Facilitating Trust and Trustworthiness pdf
-   joint with Saori Chiba, under revision
+1. The Role of Information Design in Facilitating Trust and Trustworthiness  [*pdf*](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3529150)<br/>
+     joint with Saori Chiba, *under revision*
 
-2. The Incentive Effect of Full and Garbled Reporting: Theory and Experiment pdf
-   joint with Yukihiko Funaki, Edward Halim and Yohanes Eko Riyanto, submitted
 
-3. Mutual insurance for uninsurable income [pdf](http://arxiv.org/abs/2204.00347) 
+2. The Incentive Effect of Full and Garbled Reporting: Theory and Experiment  [*pdf*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015614)<br/>
+     joint with Yukihiko Funaki, Edward Halim and Yohanes Eko Riyanto, *submitted*
+
+
+3. Mutual insurance for uninsurable income  [*pdf*](http://arxiv.org/abs/2204.00347) 
 
 
 ### Publications:
-1. Monopoly, Heterogeneous Beliefs and Imperfect Information: The Insurance Market
-   Asia-Pacific Journal of Risk and Insurance, Vol. 14, No. 1, pp. 1-10, Jan. 2020
+1. Monopoly, Heterogeneous Beliefs and Imperfect Information: The Insurance Market<br/>
+   *Asia-Pacific Journal of Risk and Insurance*, Vol. 14, No. 1, pp. 1-10, Jan. 2020
 
-2. Managerial incentive problems: The role of multi-signals pdf
-   Economics Bulletin, Vol. 35, No. 1, pp. 106-111, Mar. 2015.  
+2. Managerial incentive problems: The role of multi-signals  [*pdf*](http://www.accessecon.com/Pubs/EB/2015/Volume35/EB-15-V35-I1-P12.pdf)<br/>
+   *Economics Bulletin*, Vol. 35, No. 1, pp. 106-111, Mar. 2015.  
 
-3. Would shareholders in firms with Japanese governance mechanisms benefit from the use of annual incentive plans?  pdf
-   Journal of Management Accounting, Japan, Supplement 2, pp. 65-79, Dec. 2013.
+3. Would shareholders in firms with Japanese governance mechanisms benefit from the use of annual incentive plans?   [*pdf*](https://www.jstage.jst.go.jp/article/jma/Supplement2/0/Supplement2_65/_article/-char/ja/)<br/>
+   *Journal of Management Accounting, Japan*, Supplement 2, pp. 65-79, Dec. 2013.
