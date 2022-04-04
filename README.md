@@ -25,10 +25,7 @@ I am an Associate Professor of Insurance at Nagasaki University. My research foc
 
        joint with Yukihiko Funaki, Edward Halim and Yohanes Eko Riyanto, submitted
 
-       
-### Work in Progress:
-
-     1.  Mutual insurance for uninsurable income
+     3.  Mutual insurance for uninsurable income [pdf](http://arxiv.org/abs/2204.00347) 
 
 
 ### Publications:
