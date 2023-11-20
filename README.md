@@ -22,8 +22,8 @@ Contract Theory, Economics of Information, Economics of Risk and Uncertainty
      joint with Yukihiko Funaki, Edward Halim and Yohanes Eko Riyanto, *submitted*
 
 
-3. Mutual insurance for uninsurable income  [***pdf***](http://arxiv.org/abs/2204.00347) 
-
+3. Insuring uninsurable income  [***pdf***](http://arxiv.org/abs/2204.00347)<br/> 
+   The previous version of this paper was circulated under the title ``Mutual insurance for uninsurable income".
 
 ### Publications:
 1. Monopoly, Heterogeneous Beliefs and Imperfect Information: The Insurance Market<br/>
