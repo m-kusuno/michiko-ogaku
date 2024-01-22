@@ -14,7 +14,7 @@ Contract Theory, Economics of Information, Economics of Risk and Uncertainty
 ### Curriculum Vitae: [*pdf*](https://github.com/m-kusuno/michiko-ogaku/files/8407896/20220331_cv.pdf)
 
 ### Working Papers:
-1. The Role of Information Design in Facilitating Trust and Trustworthiness  [***pdf***](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3529150)<br/>
+1. The Role of Information Design in Facilitating Trust and Trustworthiness  [***pdf***]<br/>
      joint with Saori Chiba, *under revision* 
 
 
