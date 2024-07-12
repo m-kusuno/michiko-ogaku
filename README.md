@@ -11,7 +11,7 @@ Ph.D. University of Tsukuba (Japan), 2014
 ### Research interest: 
 Contract Theory, Economics of Information, Economics of Risk and Uncertainty
 
-### Curriculum Vitae: [*pdf*](https://github.com/m-kusuno/michiko-ogaku/blob/main/20220331_cv.pdf)
+### Curriculum Vitae: [*pdf*]()
 
 ### Working Papers:
 1. Facilitating Trust and Trustworthiness: The Impact of Mediation  [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880841)<br/>
