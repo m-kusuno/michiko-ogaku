@@ -14,15 +14,18 @@ Contract Theory, Economics of Information, Economics of Risk and Uncertainty
 ### Curriculum Vitae: [*pdf*](https://github.com/m-kusuno/michiko-ogaku/blob/main/20220331_cv.pdf)
 
 ### Working Papers:
-1. The Role of Information Design in Facilitating Trust and Trustworthiness  [***pdf***]<br/>
+1. Facilitating Trust and Trustworthiness: The Impact of Mediation  [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880841)<br/>
+     joint with Saori Chiba, *submitted*
+    
+2. The Role of Information Design in Facilitating Trust and Trustworthiness  [***pdf***]<br/>
      joint with Saori Chiba, *under revision* 
 
 
-2. The Incentive Effect of Full and Garbled Reporting: Theory and Experiment  [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015614)<br/>
-     joint with Yukihiko Funaki, Edward Halim and Yohanes Eko Riyanto, *submitted*
+3. The Incentive Effect of Full and Garbled Reporting: Theory and Experiment  [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015614)<br/>
+     joint with Yukihiko Funaki, Edward Halim and Yohanes Eko Riyanto
 
 
-3. Insuring uninsurable income  [***pdf***](http://arxiv.org/abs/2204.00347)<br/> 
+4. Insuring uninsurable income  [***pdf***](http://arxiv.org/abs/2204.00347)<br/> 
    The previous version of this paper was circulated under the title ``Mutual insurance for uninsurable income".
 
 ### Publications:
