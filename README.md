@@ -11,7 +11,7 @@ Ph.D. University of Tsukuba (Japan), 2014
 ### Research interest: 
 Contract Theory, Economics of Information, Economics of Risk and Uncertainty
 
-### Curriculum Vitae: [*pdf*]()
+### Curriculum Vitae: [*pdf*](https://drive.google.com/file/d/1KE56B5BfGttA6ihLhvIxo6sjPBJb4W2-/view?usp=sharing)
 
 ### Working Papers:
 1. Facilitating Trust and Trustworthiness: The Impact of Mediation  [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880841)<br/>
