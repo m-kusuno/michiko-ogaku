@@ -14,18 +14,20 @@ Contract Theory, Economics of Information, Economics of Risk and Uncertainty
 ### Curriculum Vitae: [*pdf*](https://drive.google.com/file/d/1KE56B5BfGttA6ihLhvIxo6sjPBJb4W2-/view?usp=sharing)
 
 ### Working Papers:
-1. Facilitating Trust and Trustworthiness: The Impact of Mediation  [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880841)<br/>
+1. Group Formation in Risk-sharing Arrangements: A Simple Analysis of the Effect of Stop-loss Protection [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4920455)<br/> *submitted*
+
+2. Facilitating Trust and Trustworthiness: The Impact of Mediation  [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880841)<br/>
      joint with Saori Chiba, *submitted*
     
-2. The Role of Information Design in Facilitating Trust and Trustworthiness  [***pdf***]<br/>
+3. The Role of Information Design in Facilitating Trust and Trustworthiness  [***pdf***]<br/>
      joint with Saori Chiba, *under revision* 
 
 
-3. The Incentive Effect of Full and Garbled Reporting: Theory and Experiment  [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015614)<br/>
+4. The Incentive Effect of Full and Garbled Reporting: Theory and Experiment  [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015614)<br/>
      joint with Yukihiko Funaki, Edward Halim and Yohanes Eko Riyanto
 
 
-4. Insuring uninsurable income  [***pdf***](http://arxiv.org/abs/2204.00347)<br/> 
+5. Insuring uninsurable income  [***pdf***](http://arxiv.org/abs/2204.00347)<br/> 
    The previous version of this paper was circulated under the title ``Mutual insurance for uninsurable income".
 
 ### Publications:
