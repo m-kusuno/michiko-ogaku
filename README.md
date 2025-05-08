@@ -9,25 +9,25 @@ Faculty of Economics, Nagasaki University, Japan
 Ph.D. University of Tsukuba (Japan), 2014                
 
 ### Research interest: 
-Contract Theory, Economics of Information, Economics of Risk and Uncertainty
+Economics of Information, Mechanism Design, Information Design, Economics of Risk and Uncertainty, Contract Theory
 
 ### Curriculum Vitae: [*pdf*](https://drive.google.com/file/d/1KE56B5BfGttA6ihLhvIxo6sjPBJb4W2-/view?usp=sharing)
 
 ### Working Papers:
-1. Group Formation in Risk-sharing Arrangements: A Simple Analysis of the Effect of Stop-loss Protection [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4920455)<br/> *submitted*
+1. Risk Sharing Among Many: Implementing a Subgame Perfect and Optimal Equilibrium  [***pdf***](http://arxiv.org/abs/2505.04122)<br/> 
+   
+2. Group Formation in Risk-sharing Arrangements: A Simple Analysis of the Effect of Stop-loss Protection [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4920455)<br/> *submitted*
 
-2. Facilitating Trust and Trustworthiness: The Impact of Mediation  [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880841)<br/>
-     joint with Saori Chiba, *submitted*
+3. Facilitating Trust and Trustworthiness: The Impact of Mediation  [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880841)<br/>
+     joint with Saori Chiba
     
-3. The Role of Information Design in Facilitating Trust and Trustworthiness  [***pdf***]<br/>
+4. The Role of Information Design in Facilitating Trust and Trustworthiness  [***pdf***]<br/>
      joint with Saori Chiba, *under revision* 
 
-
-4. The Incentive Effect of Full and Garbled Reporting: Theory and Experiment  [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015614)<br/>
+5. The Incentive Effect of Full and Garbled Reporting: Theory and Experiment  [***pdf***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015614)<br/>
      joint with Yukihiko Funaki, Edward Halim and Yohanes Eko Riyanto
 
-
-5. Insuring uninsurable income  [***pdf***](http://arxiv.org/abs/2204.00347)<br/> 
+6. Insuring uninsurable income  [***pdf***](http://arxiv.org/abs/2204.00347)<br/> 
    The previous version of this paper was circulated under the title ``Mutual insurance for uninsurable income".
 
 ### Publications:
